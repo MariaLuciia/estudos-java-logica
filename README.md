@@ -1,28 +1,28 @@
 # ☕ Estudos de Java - Lógica de Programação
 
-Repositório dedicado ao aprendizado de Java, abrangendo desde a lógica básica até Orientação a Objetos (POO). 🚀
+Repositório dedicado ao aprendizado de Java, acompanhando o curso do Prof. Nélio Alves. Aqui organizo os conceitos fundamentais de lógica e algoritmos. 🚀
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 - **Linguagem:** Java 17+
 - **IDE:** Spring Tool Suite (STS) / Eclipse
-- **Conceitos:** Variáveis, Estruturas Condicionais, Estruturas Repetitivas e Debugging.
+- **Conceitos:** Entrada/Saída de dados, Estruturas Condicionais, Repetitivas e Debugging.
 
 ---
 
 ## 📂 Exercícios Praticados
 
-### 1️⃣ Verificador de Idade
-Uso de estrutura condicional (`if/else`) para validar a entrada do usuário.
+### 1️⃣ Estrutura Condicional
+- **Projeto:** [Verificador de Idade](./Estrutura-Condicional/VerificadorIdade.java)
+- **O que aprendi:** Uso de `if/else` para controle de fluxo e a classe `Scanner` para leitura de dados.
 
-### 2️⃣ Soma Acumulada com Condição de Parada (`while`)
-Localizado na pasta `/Estrutura-Repetitiva`.
-- **O que faz:** Lê números inteiros e os soma até que o valor `0` seja digitado.
-- **Aprendizado técnico:** Uso de acumuladores e lógica de parada.
-- **Ferramenta de Debug:** Prática de execução passo a passo com **F6 (Step Over)** para monitorar variáveis em tempo real.
+### 2️⃣ Estrutura Repetitiva (while)
+- **Projeto:** [Soma com Condição de Parada](./Estrutura-Repetitiva/SomaComWhile.java)
+- **O que aprendi:** Como criar laços de repetição com `while` e utilizar acumuladores (`soma += x`).
+- **Destaque:** Prática intensa de **Debugging** utilizando a tecla **F6 (Step Over)** para monitorar o estado das variáveis linha por linha.
 
 ---
 
 ## 👩‍🎓 Sobre mim
-Estudante de **Análise e Desenvolvimento de Sistemas (3/6)**, focada em construir uma base sólida em Backend com Java.
+Estudante de **Análise e Desenvolvimento de Sistemas (3/6)**, focada em construir uma base sólida para atuar como Desenvolvedora Backend Java.
