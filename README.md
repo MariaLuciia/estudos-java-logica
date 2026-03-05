@@ -22,6 +22,10 @@ Repositório dedicado ao aprendizado de Java, acompanhando o curso do Prof. Nél
 - **O que aprendi:** Como criar laços de repetição com `while` e utilizar acumuladores (`soma += x`).
 - **Destaque:** Prática intensa de **Debugging** utilizando a tecla **F6 (Step Over)** para monitorar o estado das variáveis linha por linha.
 
+### 3️⃣ Leitura de senha (while)
+- **Projeto:** [Leitura de senha](./Estrutura-repetitiva/leitura-senha.java)
+- **O que eu aprendi:** A manter o programa em execução até que uma condição específica (a senha correta 2002) seja atendida.
+- **Destaque:** Uso da classe Scanner para leitura contínua e operadores de comparação (!=) para controle do laço.
 ---
 
 ## 👩‍🎓 Sobre mim
